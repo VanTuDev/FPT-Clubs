@@ -1,0 +1,69 @@
+{
+  "name": "FPT Clubs - Khám phá câu lạc bộ",
+  "short_name": "FPT Clubs",
+  "description": "Nền tảng giúp sinh viên FPT khám phá và tham gia các câu lạc bộ phù hợp với đam mê của mình",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "portrait-primary",
+  "theme_color": "#FF8C42",
+  "background_color": "#FAFAFA",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/screenshot-tablet.png",
+      "sizes": "1280x800",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Danh sách câu lạc bộ",
+      "short_name": "Câu lạc bộ",
+      "description": "Xem danh sách tất cả câu lạc bộ",
+      "url": "/?mode=clubs",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Chat AI tư vấn",
+      "short_name": "Chat AI",
+      "description": "Chat với AI để nhận tư vấn câu lạc bộ",
+      "url": "/chat",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "prefer_related_applications": false
+}

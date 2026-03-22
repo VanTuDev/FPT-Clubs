@@ -1,0 +1,302 @@
+[
+  {
+    "id": "fufc",
+    "name": "CLB Bóng đá FUFC",
+    "category": "Sports",
+    "themeGradient": "from-emerald-600 via-teal-500 to-cyan-400",
+    "description": "Sân chơi lành mạnh và rèn luyện sức khỏe cho sinh viên",
+    "fullDescription": "Clb được thành lập vào tháng 8 năm 2020 với mục tiêu chính là mang đến một sân chơi lành mạnh và tạo môi trường để mọi người kết nối và rèn luyện sức khoẻ. Clb thường xuyên tổ chức những giải đấu mang tính cạnh tranh cao để đem lại một sân chơi hấp dẫn cho tất cả các sinh viên.",
+    "members": "200+",
+    "memberCount": 200,
+    "frequency": "Các ngày trong tuần",
+    "benefits": ["Rèn luyện sức khỏe", "Kết nối mọi người", "Theo đuổi đam mê", "Kiếm thêm thu nhập"],
+    "location": "Trường học và các sân bóng",
+    "facebookUrl": "https://www.facebook.com/fptuniversityfootballclub",
+    "icon": "⚽",
+    "founded": "08/2020",
+    "highlights": [
+      "Tổ chức giải bóng đá nội bộ hàng kỳ với hơn 16 đội tham gia",
+      "Đại diện FPT Đà Nẵng tại các giải giao hữu liên trường",
+      "Câu lạc bộ thể thao có số lượng thành viên đông nhất trường",
+      "Kết hợp huấn luyện thể chất với kỹ năng làm việc nhóm"
+    ],
+    "activities": [
+      "Tập luyện kỹ thuật cá nhân (dẫn bóng, sút, kiểm soát bóng)",
+      "Thi đấu giao hữu nội bộ mỗi cuối tuần",
+      "Giải đấu 'Super League FUFC' tổ chức mỗi học kỳ",
+      "Camping team-building cho các thành viên mới",
+      "Workshop dinh dưỡng và thể lực cho vận động viên"
+    ],
+    "contact": "fufc.fptu@gmail.com"
+  },
+  {
+    "id": "kindness-krew",
+    "name": "CLB Thiện Nguyện F2K",
+    "category": "Volunteer",
+    "themeGradient": "from-rose-600 via-pink-500 to-red-400",
+    "description": "Giúp đỡ cộng đồng và lan tỏa lòng nhân ái",
+    "fullDescription": "CLB được thành lập vào ngày 19/12/2020, với mục tiêu giúp đỡ cộng đồng, lan tỏa lòng nhân ái và góp phần xây dựng một xã hội tốt đẹp hơn. Sự kiện tiêu biểu là 'Sưởi ấm vùng cao' được tổ chức vào học kỳ Fall hằng năm.",
+    "members": "65+",
+    "memberCount": 65,
+    "frequency": "1-2 lần mỗi tuần",
+    "benefits": ["Rèn luyện kỹ năng giao tiếp", "Làm việc nhóm", "Tổ chức sự kiện", "Mở rộng mối quan hệ"],
+    "location": "Trường học và các dự án ngoài cộng đồng",
+    "facebookUrl": "https://www.facebook.com/FPT.KINDNESS.KREW",
+    "icon": "❤️",
+    "founded": "19/12/2020",
+    "highlights": [
+      "Dự án 'Sưởi ấm vùng cao' — tặng áo ấm cho hơn 500 trẻ em miền núi",
+      "Hoạt động hiến máu nhân đạo định kỳ tại bệnh viện",
+      "Thực hiện hơn 20 dự án thiện nguyện trong 3 năm hoạt động",
+      "Kết nối với hơn 15 tổ chức thiện nguyện trong thành phố"
+    ],
+    "activities": [
+      "Thăm hỏi và hỗ trợ trẻ em khó khăn tại các trung tâm bảo trợ",
+      "Chiến dịch 'Sưởi ấm vùng cao' mỗi học kỳ Fall",
+      "Tổ chức bán hàng gây quỹ từ thiện",
+      "Workshop kỹ năng tổ chức sự kiện thiện nguyện",
+      "Hiến máu nhân đạo định kỳ 2 lần/năm"
+    ],
+    "contact": "f2k.fptu@gmail.com"
+  },
+  {
+    "id": "rhythm",
+    "name": "CLB ÂM NHẠC Rhythm - Xưởng Nhà Nhạc",
+    "category": "Arts & Music",
+    "themeGradient": "from-violet-600 via-purple-500 to-fuchsia-400",
+    "description": "Phát triển đam mê âm nhạc và kỹ năng biểu diễn",
+    "fullDescription": "CLB được thành lập vào 28/12/2023 với mục tiêu hỗ trợ các bạn sinh viên FPT có niềm đam mê với âm nhạc. CLB thường tổ chức những show âm nhạc như Liveshow Hạ Sau Hè, Liveshow Đông Đầy và Dự án Cộng Đồng mang tên Bản Hòa Ca.",
+    "members": "60+",
+    "memberCount": 60,
+    "frequency": "Thứ 7 hàng tuần",
+    "benefits": ["Trau dồi kỹ năng", "Cải thiện giọng hát", "Cơ hội biểu diễn", "Kiếm lương từ show"],
+    "location": "Trường học",
+    "facebookUrl": "https://www.facebook.com/xuonglamnhac.fptdn",
+    "icon": "🎵",
+    "founded": "28/12/2023",
+    "highlights": [
+      "Liveshow 'Hạ Sau Hè' thu hút hơn 300 khán giả tham dự",
+      "Dự án cộng đồng 'Bản Hòa Ca' kết hợp âm nhạc và thiện nguyện",
+      "Thành viên có cơ hội biểu diễn tại các sự kiện trong và ngoài trường",
+      "Phòng thu âm chuyên nghiệp phục vụ cho thành viên luyện tập"
+    ],
+    "activities": [
+      "Luyện tập thanh nhạc và nhạc cụ mỗi thứ 7",
+      "Tổ chức Liveshow 'Hạ Sau Hè' (học kỳ Summer) và 'Đông Đầy' (Fall)",
+      "Workshop kỹ năng biểu diễn sân khấu",
+      "Dự án 'Bản Hòa Ca' — biểu diễn âm nhạc cộng đồng",
+      "Tham gia biểu diễn tại các sự kiện của trường"
+    ],
+    "contact": "rhythm.fptdn@gmail.com"
+  },
+  {
+    "id": "vovinam",
+    "name": "CLB Võ thuật Vovinam",
+    "category": "Martial Arts",
+    "themeGradient": "from-red-700 via-orange-600 to-yellow-500",
+    "description": "Tập luyện võ thuật và giao lưu với những người cùng đam mê",
+    "fullDescription": "CLB được thành lập với mục tiêu tạo sân chơi cho sinh viên yêu thích vovinam có thể tập luyện và giao lưu. CLB thường tổ chức các hoạt động camping nội bộ, giải đấu trong trường như 'Cóc Vương' với số lượng lên đến 1000 sinh viên.",
+    "members": "35+",
+    "memberCount": 35,
+    "frequency": "Thứ 2, 4, 6 hàng tuần",
+    "benefits": ["Cọ xát thường xuyên", "Cùng tập luyện", "Kỹ năng chuyên môn", "Kỹ năng xã hội"],
+    "location": "Nhà võ của trường",
+    "facebookUrl": "https://www.facebook.com/Fvcudn",
+    "icon": "🥋",
+    "founded": "2019",
+    "highlights": [
+      "Giải đấu 'Cóc Vương' thu hút hơn 1,000 sinh viên tham gia",
+      "Thành viên đạt huy chương tại giải Vovinam cấp thành phố",
+      "Huấn luyện viên là võ sĩ Vovinam đai đỏ cấp cao",
+      "Tổ chức camping nội bộ hàng kỳ để đoàn kết thành viên"
+    ],
+    "activities": [
+      "Tập luyện kỹ thuật căn bản và nâng cao Vovinam (Thứ 2, 4, 6)",
+      "Thi đấu giao hữu nội bộ hàng tháng",
+      "Giải đấu 'Cóc Vương' mỗi học kỳ",
+      "Camping team-building và rèn luyện thể lực",
+      "Tham gia giải Vovinam các cấp trong thành phố"
+    ],
+    "contact": "vovinam.fptu.dn@gmail.com"
+  },
+  {
+    "id": "fu-dever",
+    "name": "CLB Lập trình FU-Dever",
+    "category": "Technology",
+    "themeGradient": "from-slate-800 via-gray-700 to-slate-600",
+    "description": "Học tập và chia sẻ kiến thức lập trình trong môi trường vui nhộn",
+    "fullDescription": "CLB được thành lập vào 27/10/2018 kết hợp học tập nghiêm túc về lập trình và hoạt động cộng đồng vui nhộn. CLB hướng tới chia sẻ, tạo môi trường để sinh viên yêu lập trình cùng nhau học hỏi. Đã đạt giải nhất tại NeuroShip khu vực Đà Nẵng trong một cuộc thi công nghệ.",
+    "members": "200+",
+    "memberCount": 200,
+    "frequency": "2-3 buổi mỗi tháng",
+    "benefits": ["Rèn luyện kỹ năng lập trình", "Tiếp cận công cụ thực tế", "Kết nối cộng đồng CNTT", "Kinh nghiệm dự án"],
+    "location": "Trường học",
+    "facebookUrl": "https://www.facebook.com/FPTUDever",
+    "icon": "💻",
+    "founded": "27/10/2018",
+    "highlights": [
+      "🥇 Giải Nhất cuộc thi NeuroShip khu vực Đà Nẵng",
+      "Tổ chức hackathon nội bộ với hơn 50 đội lập trình tham gia",
+      "Xây dựng cộng đồng lập trình hơn 200 thành viên active",
+      "Hợp tác với các công ty công nghệ để tổ chức workshop thực tế"
+    ],
+    "activities": [
+      "Hackathon nội bộ 'DeverHack' tổ chức mỗi học kỳ",
+      "Tech Talk chia sẻ kiến thức mới trong lĩnh vực CNTT",
+      "Workshop thực hành: Web Dev, AI/ML, App Mobile",
+      "Mentoring từ các senior developer tại các công ty",
+      "Competitive Programming training (LeetCode, Codeforces)"
+    ],
+    "contact": "fudever.club@gmail.com"
+  },
+  {
+    "id": "english-club",
+    "name": "FPTU English Club (FEC)",
+    "category": "Language",
+    "themeGradient": "from-amber-600 via-yellow-500 to-orange-400",
+    "description": "Cải thiện kỹ năng giao tiếp tiếng Anh và phát triển kỹ năng mềm",
+    "fullDescription": "CLB hướng tới sinh viên Đại học FPT những người yêu thích tiếng Anh và muốn cải thiện kỹ năng giao tiếp. CLB tổ chức English Speaking Sessions, Debate, Workshops kỹ năng giao tiếp, thuyết trình và mini games để phát triển toàn diện.",
+    "members": "100+",
+    "memberCount": 100,
+    "frequency": "1-2 buổi mỗi tuần",
+    "benefits": ["Cải thiện kỹ năng speaking", "Tăng sự tự tin", "Kỹ năng mềm", "Mở rộng network"],
+    "location": "Trường học và các quán cà phê",
+    "facebookUrl": "https://www.facebook.com/FPTUEnglishClub",
+    "icon": "🌏",
+    "founded": "2019",
+    "highlights": [
+      "Tổ chức English Debate Competition thu hút 60+ sinh viên",
+      "Kết nối với cộng đồng người nước ngoài tại Đà Nẵng",
+      "Thành viên cải thiện IELTS trung bình 0.5-1.0 band sau 1 học kỳ",
+      "English Camp thường niên tại các địa điểm du lịch Đà Nẵng"
+    ],
+    "activities": [
+      "English Speaking Circle mỗi tuần — thảo luận chủ đề thời sự",
+      "Debate Club (British Parliamentary / Oxford format)",
+      "Workshop: Pronunciation, Business English, Public Speaking",
+      "Movie Night với phim tiếng Anh và thảo luận",
+      "English Camp 2 ngày 1 đêm mỗi học kỳ"
+    ],
+    "contact": "fec.fptudn@gmail.com"
+  },
+  {
+    "id": "resup",
+    "name": "ResUp - Business & Marketing Club",
+    "category": "Business & Marketing",
+    "themeGradient": "from-blue-600 via-sky-500 to-cyan-400",
+    "description": "Sân chơi cho sinh viên đam mê Kinh doanh và Marketing",
+    "fullDescription": "CLB ResUp được thành lập vào ngày 12/12/2021 với mục tiêu tạo sân chơi và môi trường vừa học vừa trải nghiệm cho sinh viên Đại học FPT Đà Nẵng đam mê lĩnh vực Kinh doanh và Marketing. Thông qua các buổi đào tạo, workshop và cuộc thi, CLB giúp thành viên trau dồi kiến thức thực tế và phát triển bản thân. CLB nổi bật với các cuộc thi như Branding Camp và Res-Start với sự hỗ trợ của nhiều nhà tài trợ, đạt Top 2 CLB xuất sắc kỳ Summer 2024 và nằm trong Top 5 CLB xuất sắc toàn trường.",
+    "members": "50+",
+    "memberCount": 50,
+    "frequency": "1 buổi mỗi tuần",
+    "benefits": ["Kiến thức Business & Marketing", "Kỹ năng tổ chức sự kiện", "Trải nghiệm thực tế", "Mở rộng networking"],
+    "location": "Đại học FPT Đà Nẵng và các địa điểm tổ chức sự kiện",
+    "facebookUrl": "https://www.facebook.com/resup.fudn",
+    "icon": "📈",
+    "founded": "12/12/2021",
+    "highlights": [
+      "🥈 Top 2 CLB xuất sắc kỳ Summer 2024",
+      "🏆 Top 5 CLB xuất sắc toàn trường",
+      "Cuộc thi 'Branding Camp' với 10+ nhà tài trợ hỗ trợ",
+      "Cuộc thi 'Res-Start' giả lập môi trường startup thực tế"
+    ],
+    "activities": [
+      "Weekly Training về Marketing, Sales, Brand Building",
+      "Cuộc thi 'Branding Camp' — xây dựng thương hiệu cho doanh nghiệp thực",
+      "Cuộc thi 'Res-Start' — giả lập startup pitch to investor",
+      "Workshop với guest speaker là doanh nhân và marketer",
+      "Field trip tham quan các doanh nghiệp tại Đà Nẵng"
+    ],
+    "contact": "resup.fptudn@gmail.com"
+  },
+  {
+    "id": "fcs",
+    "name": "FUDA Creative's Space (FCS)",
+    "category": "Media & Design",
+    "themeGradient": "from-fuchsia-600 via-pink-500 to-rose-400",
+    "description": "Không gian sáng tạo cho sinh viên yêu thích thiết kế và truyền thông",
+    "fullDescription": "FUDA Creative's Space (FCS) được thành lập vào cuối tháng 7 năm 2023 bởi sinh viên FPT University Đà Nẵng. CLB hướng đến việc tạo một không gian sáng tạo cho sinh viên đam mê thiết kế, truyền thông và sản xuất nội dung, đồng thời phát triển kỹ năng và hỗ trợ các hoạt động truyền thông trong và ngoài trường. FCS thường thực hiện các ấn phẩm truyền thông, workshop chia sẻ kỹ năng và tham gia các sự kiện sáng tạo, trong đó nổi bật là chương trình 'Cóc Phiêu Lưu' với khoảng 120 sinh viên tham gia trải nghiệm địa phương.",
+    "members": "60+",
+    "memberCount": 60,
+    "frequency": "Khoảng 1 buổi mỗi tháng (tăng tần suất khi có sự kiện)",
+    "benefits": ["Kỹ năng thiết kế", "Chụp ảnh và quay dựng video", "Sáng tạo nội dung", "Làm việc nhóm", "Kinh nghiệm thực tế"],
+    "location": "Khuôn viên FPT University Đà Nẵng và các địa điểm tổ chức sự kiện",
+    "facebookUrl": "https://www.facebook.com/fudacreativespace",
+    "icon": "🎨",
+    "founded": "07/2023",
+    "highlights": [
+      "Chương trình 'Cóc Phiêu Lưu' — 120 sinh viên khám phá địa điểm Đà Nẵng",
+      "Sản xuất ấn phẩm truyền thông cho 5+ sự kiện của trường",
+      "Workshop Figma, Photoshop, Premiere Pro miễn phí cho sinh viên",
+      "Tạo portfolio thực tế cho thành viên sau mỗi dự án"
+    ],
+    "activities": [
+      "Workshop thiết kế đồ họa: Figma, Illustrator, Photoshop",
+      "Workshop quay phim và dựng video: Premiere Pro, After Effects",
+      "Dự án 'Cóc Phiêu Lưu' — content creation ngoại cảnh",
+      "Sản xuất visual identity cho các sự kiện của trường",
+      "Photo walk và street photography mỗi tháng"
+    ],
+    "contact": "fcs.fptuda@gmail.com"
+  },
+  {
+    "id": "vo-co-truyen",
+    "name": "CLB Võ cổ truyền - FPTU Đà Nẵng",
+    "category": "Martial Arts",
+    "themeGradient": "from-purple-700 via-indigo-600 to-blue-500",
+    "description": "Rèn luyện võ thuật cổ truyền Việt Nam và thể chất",
+    "fullDescription": "CLB Võ cổ truyền FPTU Đà Nẵng được thành lập vào tháng 4 năm 2023 với mục tiêu tổ chức thêm các hoạt động thể thao và mở rộng các giải đấu võ thuật cổ truyền Việt Nam. CLB hướng tới sinh viên đang học tại Đại học FPT Đà Nẵng và các bạn ở khu vực lân cận. CLB thường tổ chức các hoạt động giao lưu, camping, tập thêm ngoài giờ và thường xuyên tham gia, tổ chức các giải võ thuật trong thành phố cho học viên.",
+    "members": "24+",
+    "memberCount": 24,
+    "frequency": "Thứ 3 và thứ 5 hàng tuần",
+    "benefits": ["Rèn luyện kỹ thuật võ cổ truyền", "Rèn luyện thể lực và sự kiên nhẫn", "Xây dựng phẩm chất và tinh thần võ đạo"],
+    "location": "Nhà võ của trường Đại học FPT Đà Nẵng",
+    "facebookUrl": "https://www.facebook.com/share/1arvHToey3/?mibextid=wwXIfr",
+    "icon": "🥊",
+    "founded": "04/2023",
+    "highlights": [
+      "Đội tuyển tham gia giải Võ cổ truyền cấp thành phố Đà Nẵng",
+      "Biểu diễn võ thuật tại Lễ khai giảng và các sự kiện lớn của trường",
+      "Giao lưu võ thuật với các CLB võ cổ truyền trong thành phố",
+      "Thành viên được cấp chứng chỉ võ thuật theo từng đai bậc"
+    ],
+    "activities": [
+      "Tập luyện kỹ thuật căn bản và đòn thế cổ truyền (Thứ 3, Thứ 5)",
+      "Biểu diễn quyền tại các sự kiện của trường",
+      "Giao lưu thi đấu với CLB ngoài trường",
+      "Camping và hoạt động rèn luyện thể lực ngoài trời",
+      "Học lý thuyết triết học võ đạo Việt Nam"
+    ],
+    "contact": "vocotruyen.fptu.dn@gmail.com"
+  },
+  {
+    "id": "fub-badminton",
+    "name": "FUB - CLB Cầu lông",
+    "category": "Sports",
+    "themeGradient": "from-lime-600 via-green-500 to-emerald-400",
+    "description": "Môi trường rèn luyện và giao lưu cho sinh viên yêu thích cầu lông",
+    "fullDescription": "CLB FUB được thành lập nhằm tạo môi trường cho sinh viên rèn luyện, giao lưu và phát triển kỹ năng cầu lông. CLB tổ chức các buổi luyện tập định kỳ, giao lưu và các giải đấu cầu lông nội bộ giữa các thành viên. Khi tham gia, sinh viên được rèn luyện sức khỏe, nâng cao kỹ năng và mở rộng mối quan hệ trong môi trường năng động.",
+    "members": "800+ theo dõi trên Facebook",
+    "memberCount": 120,
+    "frequency": "Sinh hoạt và luyện tập hàng tuần",
+    "benefits": ["Rèn luyện sức khỏe", "Nâng cao kỹ năng cầu lông", "Mở rộng mối quan hệ"],
+    "location": "Trường Đại học FPT Đà Nẵng và các sân cầu lông gần trường",
+    "facebookUrl": "https://www.facebook.com/share/18Nx3yM4ap/?mibextid=wwXIfr",
+    "icon": "🏸",
+    "founded": "2021",
+    "highlights": [
+      "Tổ chức giải cầu lông nội bộ 'FUB Open' mỗi học kỳ",
+      "800+ người theo dõi trên fanpage — cộng đồng lớn nhất FPTU Đà Nẵng",
+      "Giao lưu cùng câu lạc bộ cầu lông các trường đại học khác",
+      "Đội tuyển tham dự giải cầu lông sinh viên toàn thành phố"
+    ],
+    "activities": [
+      "Luyện tập kỹ thuật: smash, drop shot, lob, serve mỗi tuần",
+      "Thi đấu giao hữu nội bộ mỗi cuối tuần",
+      "Giải đấu 'FUB Open' mỗi học kỳ với nhiều hạng mục",
+      "Coaching 1-1 cho thành viên mới bắt đầu",
+      "Giao lưu cùng CLB cầu lông các trường trong khu vực"
+    ],
+    "contact": "fub.fptudn@gmail.com"
+  }
+]
